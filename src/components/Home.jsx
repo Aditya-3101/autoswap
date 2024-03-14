@@ -31,7 +31,7 @@ export const Home = () => {
 
   useEffect(() => {
     document.title = "Autoswap | Your place to rent cars";
-    fetch("https://autoswap-erry.onrender.com/allCars")
+    fetch("https://island-keen-neptune.glitch.me/allCars")
       .then((response) => response.json())
       .then((res) => {
         dispatch(AddItem(res));
