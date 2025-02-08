@@ -5,21 +5,21 @@ export const Homeplans = () => {
     {
       id: 1,
       thumb:
-        "https://i.ibb.co/W3g4FLR/undraw-Order-ride-re-372k-removebg-preview.png",
+        "https://i.imgur.com/bK21BEE.png",
       head: "Select Your Car",
       info: "Discover our wide variety of cars that suit all your driving needs. we've got the perfect option for you. Find your ideal ride with us for every trip you take",
     },
     {
       id: 2,
       thumb:
-        "https://i.ibb.co/SrcYLr8/undraw-City-driver-re-9xyv-removebg-preview.png",
+        "https://i.imgur.com/dvXgEsh.png",
       head: "Let's Go",
       info: "From highway adventures to city explorations, our diverse car selection has you covered. Find the perfect ride for your journey with our extensive range of vehicles.",
     },
     {
       id: 3,
       thumb:
-        "https://i.ibb.co/jgNbW8L/undraw-Active-support-re-b7sj-removebg-preview.png",
+        "https://i.imgur.com/XReEZTQ.png",
       head: "Contact Support",
       info: "Our knowledgeable and friendly operators are always ready to help with any questions or concerns",
     },

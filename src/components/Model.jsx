@@ -16,7 +16,7 @@ export const Model = (props) => {
       weekly: 5200,
       monthly: 19500,
     },
-    imageURL: "https://i.ibb.co/qWhd8Xg/image-4-removebg-preview.png",
+    imageURL: "https://i.imgur.com/8TmvecF.png",
   });
   const old_Data = useSelector((state) => state.Data);
 

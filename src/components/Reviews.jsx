@@ -20,7 +20,7 @@ export const Reviews = () => {
           </p>
           <div>
             <img
-              src="https://i.ibb.co/LJ16KxX/photo-1633332755192-727a05c4013d-w-600-auto-format-fit-crop-q-60-ixlib-rb-4-0.jpg"
+              src="https://i.imgur.com/S3s4sB7.jpeg"
               alt="John Doe"
               className="user-img"
             />
@@ -41,7 +41,7 @@ export const Reviews = () => {
           <div>
             <img
               alt="Alan Kimberly"
-              src="https://i.ibb.co/3dkkhbr/photo-1535713875002-d1d0cf377fde-q-80-w-1780-auto-format-fit-crop-ixlib-rb-4-0.jpg"
+              src="https://i.imgur.com/TpjzBOi.jpeg"
               className="user-img"
             />
             <p className="reviewer-container">

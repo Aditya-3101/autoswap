@@ -19,7 +19,7 @@ export const Promo = () => {
       <div className="perks-collection">
         <section className="perk-card">
           <img
-            src="https://i.ibb.co/3N3c6q4/undraw-Savings-re-eq4w-removebg-preview.png"
+            src="https://i.imgur.com/NJ81AKQ.png"
             alt="Transparent pricing"
           />
           <h3>Transparent pricing</h3>
@@ -30,7 +30,7 @@ export const Promo = () => {
         </section>
         <section className="perk-card">
           <img
-            src="https://i.ibb.co/hyjFh26/undraw-Map-dark-re-36sy-removebg-preview.png"
+            src="https://i.imgur.com/luxZacW.png"
             alt="Gps and wifi options"
           />
           <h3>Gps and Wifi options</h3>
@@ -41,7 +41,7 @@ export const Promo = () => {
         </section>
         <section className="perk-card">
           <img
-            src="https://i.ibb.co/nmkgJTf/undraw-Note-list-re-r4u9-removebg-preview.png"
+            src="https://i.imgur.com/e0GfTIJ.png"
             alt="flexible booking options"
           />
           <h3>Flexible Booking options</h3>

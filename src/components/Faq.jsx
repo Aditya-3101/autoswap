@@ -28,7 +28,7 @@ export const Faq = () => {
       </div>
       <div className="promo-mobile-app">
         <img
-          src="https://i.ibb.co/MNtsp5y/Picsart-23-12-07-19-50-28-191-1.png"
+          src="https://files.catbox.moe/ccbsdj.png"
           alt="mobile-cover"
         />
       </div>

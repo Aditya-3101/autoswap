@@ -11,21 +11,21 @@ export const Team = () => {
       name: "Ethan winters",
       role: "Business Owner",
       photo:
-        "https://i.ibb.co/QkMQsJ6/photo-1549473448-5d7196c91f48-Photo-Room-png-Photo-Room-2.png",
+        "https://i.imgur.com/oEnlblF.png",
     },
     {
       id: 2,
       name: "Sasha coft",
       role: "Sales Executive",
       photo:
-        "https://i.ibb.co/qNt6QZY/photo-1573496359142-b8d87734a5a2-Photo-Room-png-Photo-Room-2.png",
+        "https://i.imgur.com/Ui6HZjH.png",
     },
     {
       id: 3,
       name: "Arjun kohli",
       role: "Project Manager",
       photo:
-        "https://i.ibb.co/wN8F2dZ/2-f41d050c1c5b9e59fc22-Photo-Room-png-Photo-Room.png",
+        "https://i.imgur.com/ZBS9lmG.png",
     },
   ];
 

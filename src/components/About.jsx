@@ -19,7 +19,7 @@ export const About = () => {
     <div>
       <section className="about-section">
         <img
-          src="https://i.ibb.co/7Gr6JGB/photo-1521791136064-7986c2920216-q-80-w-1769-auto-format-fit-crop-ixlib-rb-4-0.jpg"
+          src="https://i.imgur.com/iSu7Peo.jpeg"
           alt="About-us"
           className="about-cover"
         />

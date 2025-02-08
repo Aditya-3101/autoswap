@@ -31,7 +31,7 @@ export const Home = () => {
 
   useEffect(() => {
     document.title = "Autoswap | Your place to rent cars";
-    fetch("https://island-keen-neptune.glitch.me/allCars")
+    fetch("https://autoswap-api.vercel.app/allCars")
       .then((response) => response.json())
       .then((res) => {
         dispatch(AddItem(res));
@@ -103,7 +103,7 @@ export const Home = () => {
         </div>
         <div className="hero-img-container">
           <img
-            src="https://i.ibb.co/7QLQ8BS/fortuner-exterior-right-front-three-quarter-20-2-Photo-Room-png-Photo-Room-2.png"
+            src="https://i.imgur.com/P1AYuRW.png"
             alt="hero-cover"
             className="hero-car"
           />

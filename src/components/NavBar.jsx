@@ -12,7 +12,7 @@ export const NavBar = () => {
     <div className="navbar">
       <NavLink to="/">
         <img
-          src="https://i.ibb.co/rf7q1QL/Black-logo-no-background.png"
+          src="https://i.imgur.com/VrZCAUQ.png"
           alt="Autoswap"
           className="company-logo"
         />
