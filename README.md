@@ -26,7 +26,7 @@ Note - Feel free to make any changes, if you want
 Clone the project
 
 ```bash
-  git clone https://github.com/Aditya-3101/E-commerce-site/tree/master
+  git clone https://github.com/Aditya-3101/autoswap.git
 ```
 
 Go to the project directory
